@@ -1,5 +1,5 @@
 
-# Wi-Fi Password Extractor using VBScript
+# Wi-Fi Password Hack
 
 This script automates the process of retrieving saved Wi-Fi passwords on a Windows machine and saves the information to a text file using Notepad++. 
 
