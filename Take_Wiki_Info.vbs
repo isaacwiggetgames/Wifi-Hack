@@ -3,7 +3,7 @@ Set objFSO = CreateObject("Scripting.FileSystemObject")
 
 ' 👉 Define the Wi-Fi network name and Notepad file name
 Dim wifiName
-wifiName = "CenturyLink1658_5G"
+wifiName = "Your_Wifi_Name"
 Dim notepadFileName
 notepadFileName = "Wifi_info.txt"
 
